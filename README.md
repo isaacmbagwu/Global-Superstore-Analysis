@@ -75,5 +75,5 @@ Due to dataset size, project files are hosted on Google Drive:
 ## 👤 Author
 
 **Isaac Mbagwu**
-Mechatronics Engineer | Data Analytics Enthusiast
-Interested in Smart Manufacturing & Industrial Data Solutions
+Mechatronics Engineer | Data Analyst |
+Smart Manufacturing & Industrial Data Solutions

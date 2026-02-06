@@ -68,7 +68,7 @@ Due to dataset size, project files are hosted on Google Drive:
 
 ## 🖼️ Dashboard Preview
 
-![Global Superstore Dashboard](Dashboard.png)
+![Global Superstore Dashboard](Global%20Superstore%20Dashboard.png)
 
 ---
 
